@@ -32,3 +32,5 @@
 
 * Probably when given more data, with more options in categorical columns ("workclass", "education", "marital_status" etc.) both TFLearn wide and deep and Keras embedding versions would perform better than XGBoost version.
 
+
+**Check notebooks for details**
