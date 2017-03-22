@@ -1,14 +1,14 @@
 # Comparison of different models
 
-* TFLearn based wide and deep model (code copied from https://www.tensorflow.org/tutorials/wide_and_deep and adapted to )
+1. TFLearn based wide and deep model (code copied from https://www.tensorflow.org/tutorials/wide_and_deep and adapted to jupyter notebook format)
 
-* TFLearn wide and deep re-implemented in Keras
+2. TFLearn wide and deep re-implemented in Keras
 
-* XGBoost implementation
+3. XGBoost implementation
 
 
 
-# Results
+## Results
 
 * TFLearn wide and deep model - similarly to results from TF tutorial has accuracy is 84.5%
 
@@ -17,14 +17,14 @@
 * TFLearn wide and deep re-implemented in Keras - best accuracy is 85.1%
 
 
-# Notes
+## Notes
 
 * If you want to test it by yourself, download the data using TFLearn notebook
 
 * Keras version skipped tf.contrib.layers.crossed_column features. Implementing them could further improve accuracy
 
 
-# Summary
+## Summary
 
 * This type of "tabular" based dataset is still easiest to implement using XGBoost
 
