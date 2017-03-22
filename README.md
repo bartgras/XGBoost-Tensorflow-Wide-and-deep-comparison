@@ -1,10 +1,10 @@
 # Comparison of different models
 
-1. TFLearn based wide and deep model (code copied from https://www.tensorflow.org/tutorials/wide_and_deep and adapted to jupyter notebook format)
+1. **TFLearn based wide and deep model** (code copied from https://www.tensorflow.org/tutorials/wide_and_deep and adapted to jupyter notebook format)
 
-2. TFLearn wide and deep re-implemented in Keras
+2. **TFLearn wide and deep re-implemented in Keras**
 
-3. XGBoost implementation
+3. **XGBoost** based implementation
 
 
 
